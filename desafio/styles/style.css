@@ -1,0 +1,89 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+body{
+    width: 100vw;  
+    height: 100vh; 
+    background-image: url('/desafio/img/fundo.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+}
+
+
+.corpo{
+    margin: 10%;
+   /* padding: 5%; */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.botao{
+    display: flex;
+    justify-content: space-between;
+   
+}
+
+.botao-estilo{
+    background: #7e3cbb;
+    color: #ffffff;
+    width: 250px;
+    height: 67px;
+    border-radius: 10px;
+    font-size: 24px;
+    padding: 15px 0;
+    border: #000000 solid 1px;
+    text-decoration: none;
+}
+
+.rodape{
+    color: #ffff;
+    text-align: center;
+}
+
+.campo-texto{
+    width: 510px;
+    height: 350px;
+    opacity: 0.5;
+    font-weight: bold;
+    font-size: larger;
+    padding: 10px;
+    border: #000000 solid 1px;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.base-campo-texto{
+    background-color: #514e4e90;
+    color: #ffffff;
+    width: 510px;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: #000000 solid 1px;
+    border-radius: 0px 0px 10px 10px;
+    position: relative;
+    top: -5px;
+}
+
+.corpo-descodificao{
+    width:350px;
+    height:200px;
+    top:40px;
+    left:1000px;
+    font-weight: bold;
+    font-size: larger;
+     
+}
+
+.campo-texto-resposta{
+    width: 328px;
+    height:242px;
+    opacity: 0.5;
+    font-weight: bold;
+    font-size: larger;
+    padding: 10px;
+    border: #000000 solid 1px;
+    border-radius: 10px 10px 10px 10px;
+}
