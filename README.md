@@ -12,6 +12,17 @@ O desafio é criar um sistema onde você pode escrever uma mensagem, clicar em "
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
+## Imagens Projeto
+
+https://github.com/CamillaEruya/codificador-de-texto/tree/main/desafio/img
+<img src="./desafio/img/fot1.png">
+<img src="./desafio/img/foto3.png">
+<img src="./desafio/img/foto2.png">
+<img src="./desafio/img/foto5.png">
+
+<img src="./desafio/img/foto4.png">
+
+
 ## Desenvolvido por
 
 Camilla Silveira
